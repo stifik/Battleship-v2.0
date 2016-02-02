@@ -89,3 +89,5 @@ function parseGuess (guess) {
 		}
 		return null;
 };
+
+//test, test hallo
